@@ -6,12 +6,7 @@
     "app": {
       "projectType": "application",
       "schematics": {
-        "@schematics/angular:component": {
-          "standalone": false
-        },
-        "@schematics/angular:page": {
-          "standalone": false
-        }
+        
       },
       "root": "",
       "sourceRoot": "src",
